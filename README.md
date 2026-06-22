@@ -1,40 +1,71 @@
-# El Hadji Malick Niang
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:0f766e,100:43b581&height=220&section=header&text=EL%20HADJI%20MALICK%20NIANG&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=field%20notes%20from%20a%20software%20engineer&descAlignY=58&descSize=17&animation=fadeIn" alt="El Hadji Malick Niang" width="100%" />
+</p>
 
-Computer Science Engineering student focused on backend systems, AI-driven software, IoT, and mobile products.
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1300&color=43B581&center=true&vCenter=true&width=700&lines=I+build+software+that+reaches+beyond+the+screen.;Backend+systems+%2B+computer+vision+%2B+IoT.;Based+in+Senegal.+Always+building." alt="Animated introduction" /></a>
+</p>
 
-- Portfolio: [elhadjimalickniang.vercel.app](https://elhadjimalickniang.vercel.app)
-- LinkedIn: [linkedin.com/in/elhadjimalickniang](https://www.linkedin.com/in/elhadjimalickniang/)
-- GitHub: [github.com/Malick2k3](https://github.com/Malick2k3)
-- Email: [hadjimalickni@gmail.com](mailto:hadjimalickni@gmail.com)
+<p align="center">
+  <a href="https://elhadjimalickniang.vercel.app">Portfolio</a>
+  &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/elhadjimalickniang/">LinkedIn</a>
+  &nbsp; / &nbsp;
+  <a href="mailto:hadjimalickni@gmail.com">Email</a>
+</p>
 
-## What I work on
+## The thread running through my work
 
-- Backend APIs and full-stack applications
-- AI-oriented software and computer vision workflows
-- IoT and embedded systems projects
-- Mobile apps built with React Native and Expo
+I am interested in the moment software meets the physical world: a farm needs a clearer signal, an aerial image needs to become a decision, or a small business needs a calmer way to run its day.
 
-## Featured work
+That is why I keep building at the intersection of **backend systems, computer vision, and connected devices**.
 
-- [portfolio-website](https://github.com/Malick2k3/portfolio-website)  
-  Bilingual Next.js portfolio website showcasing software engineering, AI, IoT, and mobile projects.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 / <a href="https://github.com/Malick2k3/SkyAI">SkyAI</a></h3>
+      <p>Aerial-image processing through a FastAPI service: NodeODM task orchestration, status tracking, preview generation, and result delivery.</p>
+      <p><code>Python</code> <code>FastAPI</code> <code>NodeODM</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 / <a href="https://github.com/Malick2k3/Personal-smart-greenhouse-codes">Smart Greenhouse</a></h3>
+      <p>Environmental sensors, a remote dashboard, and threshold-based irrigation working as one system.</p>
+      <p><code>IoT</code> <code>Arduino</code> <code>Sensors</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>03 / <a href="https://github.com/Malick2k3/POS-group-project">POS Platform</a></h3>
+      <p>A full-stack platform for the daily reality of inventory, checkout, and sales reporting.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Express</code> <code>MySQL</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>04 / <a href="https://github.com/Malick2k3/midterm-project-Daust-pro">DAUST</a></h3>
+      <p>A focused React Native experience for prayer times, Qibla, Quran browsing, Tasbih, and the Islamic calendar.</p>
+      <p><code>React Native</code> <code>Expo</code></p>
+    </td>
+  </tr>
+</table>
 
-- [SkyAI](https://github.com/Malick2k3/SkyAI)  
-  FastAPI backend service for aerial image processing workflows with NodeODM, task tracking, preview generation, and result delivery.
+## Current signal
 
-- [POS-group-project](https://github.com/Malick2k3/POS-group-project)  
-  Full-stack point-of-sale platform with React, TypeScript, Express, and MySQL for inventory, checkout, and sales reporting.
+```text
+AgriTwin AI
+  crop health detection  -->  irrigation recommendations  -->  farm decisions
+```
 
-- [Personal-smart-greenhouse-codes](https://github.com/Malick2k3/Personal-smart-greenhouse-codes)  
-  IoT greenhouse monitoring system with embedded sensors, remote dashboard visibility, and threshold-based irrigation workflows.
+## Tools I use when they fit the problem
 
-- [midterm-project-Daust-pro](https://github.com/Malick2k3/midterm-project-Daust-pro)  
-  React Native and Expo mobile app for prayer times, Qibla, Quran browsing, Tasbih, and Islamic calendar workflows.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,ts,react,java,mysql,mongodb,docker,arduino&theme=dark&perline=10" alt="Python, FastAPI, Node.js, TypeScript, React, Java, MySQL, MongoDB, Docker, Arduino" />
+</p>
 
-- [GoldPledge-Manager-Java-final-Project](https://github.com/Malick2k3/GoldPledge-Manager-Java-final-Project)  
-  Java desktop application for managing customer pledges and pledged items with a relational database-backed business workflow.
+## Activity, but make it alive
 
-## Currently building
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Malick2k3/Malick2k3/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" width="100%" />
+</p>
 
-- `AgriTwin AI`  
-  An AI-powered farm intelligence platform for crop health detection, irrigation recommendations, and decision support.
+<p align="center">
+  <sub>Computer Science Engineering student / Senegal / open to useful, difficult work</sub>
+</p>
